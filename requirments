@@ -1,3 +1,4 @@
-requests
-bs4
-lxml
+pip install setuptools
+pip install requests
+pip install bs4
+pip install lxml
